@@ -1,10 +1,15 @@
 import './App.css';
+import Header from './Header';
 
 function App() {
+  
   return (
-    <p>
-          CAPSTONE2
-    </p>
+    <div id="the-app">
+      <Header />
+      <main>
+        
+      </main>
+    </div>
     
   );
 }
