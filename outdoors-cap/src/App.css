@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'National Park', sans-serif;
 }
 
 .App-logo {
@@ -25,6 +26,7 @@
 
 .App-link {
   color: #61dafb;
+  font-family: 'National Park', sans-serif;
 }
 
 @keyframes App-logo-spin {
@@ -44,5 +46,5 @@ body {
 }
 h2, h3, h4 {
   color: antiquewhite;
-  font: NPS Rawlinson;
+  font-family: 'National Park', sans-serif;
 }

@@ -39,4 +39,5 @@ function SearchResults() {
     </div>
   );
 }
+
 export default SearchResults;
