@@ -42,3 +42,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+h2, h3, h4 {
+  color: antiquewhite;
+  font: NPS Rawlinson;
+}
