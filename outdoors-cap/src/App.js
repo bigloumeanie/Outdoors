@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
-import NationalParksSearch from "./NationalParksSearch";
-import MountainsInformationPage from "./MountainsInformationPage";
+import NationalParksSearch from "./nationalParksSearch";
+import MountainsInformationPage from "./mountainsInformationPage";
 
 function App() {
   const [showNationalParksSearch, setShowNationalParksSearch] = useState(false);
