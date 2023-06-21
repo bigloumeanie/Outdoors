@@ -16,7 +16,7 @@
   {
     "LocationID": "ACAD",
     "LocationName": "Acadia National Park",
-    "Address": "P.O. Box 177",
+    "Address": "",
     "City": "Bar Harbor",
     "State": "Maine",
     "ZipCode": 4609,
@@ -69,7 +69,7 @@
   {
     "LocationID": "alag",
     "LocationName": "Alagnak Wild River",
-    "Address": "P.O. Box 245",
+    "Address": "",
     "City": "King Salmon",
     "State": "Alaska",
     "ZipCode": 99613,
@@ -96,7 +96,7 @@
   {
     "LocationID": "aleu",
     "LocationName": "Aleutian World War II National Historic Area",
-    "Address": "Ounalashka Corporation, P.O. Box 149",
+    "Address": "Ounalashka Corporation",
     "City": "Unalaska",
     "State": "Alaska",
     "ZipCode": 99685,
@@ -122,7 +122,7 @@
   {
     "LocationID": "AMME",
     "LocationName": "American Memorial Park",
-    "Address": "Superintendent, P.O. Box 5198 CHRB",
+    "Address": "Superintendent, 8 CHRB",
     "City": "Saipan",
     "State": "MP-Japan",
     "ZipCode": 96950,
@@ -161,7 +161,7 @@
   {
     "LocationID": "ANJO",
     "LocationName": "Andrew Johnson National Historic Site",
-    "Address": "Mailing Address - Andrew Johnson NHS, 121 Monument Ave., GPS Location - Andrew Johnson NHS Visitor Center, 101 North College St.",
+    "Address": "Andrew Johnson NHS, 121 Monument Ave.",
     "City": "Greeneville",
     "State": "Tennessee",
     "ZipCode": 37743,
@@ -174,7 +174,7 @@
   {
     "LocationID": "ania",
     "LocationName": "Aniakchak National Monument & Preserve",
-    "Address": "P.O. Box 245",
+    "Address": "",
     "City": "King Salmon",
     "State": "Alaska",
     "ZipCode": 99613,
@@ -187,7 +187,7 @@
   {
     "LocationID": "ANTI",
     "LocationName": "Antietam National Battlefield",
-    "Address": "P.O. Box 158",
+    "Address": "",
     "City": "Sharpsburg",
     "State": "Maryland",
     "ZipCode": 21782,
@@ -214,7 +214,7 @@
   {
     "LocationID": "appa",
     "LocationName": "Appalachian National Scenic Trail",
-    "Address": "P.O. Box 50",
+    "Address": "",
     "City": "Harpers Ferry",
     "State": "West Virginia",
     "ZipCode": 25425,
@@ -228,7 +228,7 @@
   {
     "LocationID": "ARCH",
     "LocationName": "Arches National Park",
-    "Address": "PO Box 907",
+    "Address": "",
     "City": "Moab",
     "State": "Utah",
     "ZipCode": 84532,
@@ -283,7 +283,7 @@
   {
     "LocationID": "BADL",
     "LocationName": "Badlands National Park",
-    "Address": "25216 Ben Reifel Road, P.O. Box 6",
+    "Address": "25216 Ben Reifel Road",
     "City": "Interior",
     "State": "South Dakota",
     "ZipCode": 57750,
@@ -297,7 +297,7 @@
   {
     "LocationID": "BAWA",
     "LocationName": "Baltimore-Washington Parkway",
-    "Address": "Baltimore Washington Parkway inc/o Greenbelt Park, 6565 Greenbelt Road",
+    "Address": "Baltimore Washington Parkway, 6565 Greenbelt Road",
     "City": "Greenbelt",
     "State": "Maryland",
     "ZipCode": 20770,
@@ -310,7 +310,7 @@
   {
     "LocationID": "BAND",
     "LocationName": "Bandelier National Monument",
-    "Address": "Superintendent, Bandelier National Monument 15 Entrance Road",
+    "Address": "Bandelier National Monument 15 Entrance Road",
     "City": "Los Alamos",
     "State": "New Mexico",
     "ZipCode": 87544,
@@ -336,7 +336,7 @@
   {
     "LocationID": "bela",
     "LocationName": "Bering Land Bridge National Preserve",
-    "Address": "PO Box 220",
+    "Address": "",
     "City": "Nome",
     "State": "Alaska",
     "ZipCode": 99762,
@@ -349,7 +349,7 @@
   {
     "LocationID": "BIBE",
     "LocationName": "Big Bend National Park",
-    "Address": "PO Box 129",
+    "Address": "",
     "City": "Big Bend National Park",
     "State": "Texas",
     "ZipCode": 79834,
@@ -402,7 +402,7 @@
   {
     "LocationID": "BICA",
     "LocationName": "Bighorn Canyon National Recreation Area",
-    "Address": "Bighorn Canyon NRA Headquarters, 5 Avenue B, P.O. Box 7458, Fort Smith, MT 59035",
+    "Address": "Bighorn Canyon, 5 Avenue B, Fort Smith, MT 59035",
     "City": "Fort Smith",
     "State": "Montana",
     "ZipCode": 59035,
@@ -457,7 +457,7 @@
   {
     "LocationID": "BOHA",
     "LocationName": "Boston Harbor Islands National Recreation Area",
-    "Address": "Boston Harbor Islands Partnership, 408 Atlantic Avenue, Suite 228",
+    "Address": "Boston Harbor Islands, 408 Atlantic Avenue",
     "City": "Boston",
     "State": "Massachuetts",
     "ZipCode": 2110,
@@ -509,7 +509,7 @@
   {
     "LocationID": "BRCA",
     "LocationName": "Bryce Canyon National Park",
-    "Address": "PO Box 640201",
+    "Address": "",
     "City": "Bryce",
     "State": "Utah",
     "ZipCode": "84764-0201",
@@ -523,7 +523,7 @@
   {
     "LocationID": "buff",
     "LocationName": "Buffalo National River",
-    "Address": "402 N. Walnut, Suite 136",
+    "Address": "402 N. Walnut",
     "City": "Harrison",
     "State": "Arkansas",
     "ZipCode": 72601,
@@ -549,7 +549,7 @@
   {
     "LocationID": "cali",
     "LocationName": "California National Historic Trail",
-    "Address": "National Trails Intermountain Region, 324 South State St.,Suite 200",
+    "Address": "National Trails Intermountain Region, 324 South State St.",
     "City": "Salt Lake City",
     "State": "Utah",
     "ZipCode": 84111,
@@ -588,7 +588,7 @@
   {
     "LocationID": "cach",
     "LocationName": "Canyon de Chelly National Monument",
-    "Address": "PO Box 588",
+    "Address": "",
     "City": "Chinle",
     "State": "Arizona",
     "ZipCode": 86503,
@@ -667,7 +667,7 @@
   {
     "LocationID": "CAJO",
     "LocationName": "Captain John Smith Chesapeake National Historic Trail",
-    "Address": "NPS Chesapeake Bay Program Office, 410 Severn Avenue, Suite 314",
+    "Address": "NPS Chesapeake Bay Program Office, 410 Severn Avenue",
     "City": "Annapolis",
     "State": "Maryland",
     "ZipCode": 21403,
@@ -680,7 +680,7 @@
   {
     "LocationID": "CAVO",
     "LocationName": "Capulin Volcano National Monument",
-    "Address": "Capulin Volcano NM, P.O. Box 40",
+    "Address": "Capulin Volcano NM",
     "City": "Des Moines",
     "State": "New Mexico",
     "ZipCode": 88418,
@@ -771,7 +771,7 @@
   {
     "LocationID": "CEBR",
     "LocationName": "Cedar Breaks National Monument",
-    "Address": "Cedar Breaks National Monument, 2390 W. Hwy 56, Suite 11",
+    "Address": "Cedar Breaks National Monument, 2390 W. Hwy 56",
     "City": "Cedar City",
     "State": "Utah",
     "ZipCode": 84720,
@@ -850,7 +850,7 @@
   {
     "LocationID": "CHOH",
     "LocationName": "Chesapeake & Ohio Canal National Historical Park",
-    "Address": "C&O Canal NHP Headquarters, 1850 Dual Highway, Suite 100",
+    "Address": "C&O Canal NHP Headquarters, 1850 Dual Highway",
     "City": "Hagerstown",
     "State": "Maryland",
     "ZipCode": "21740-6620",
@@ -863,7 +863,7 @@
   {
     "LocationID": "CBPO",
     "LocationName": "Chesapeake Bay Gateways Network",
-    "Address": "410 Severn Avenue, Suite 109",
+    "Address": "410 Severn Avenue",
     "City": "Annapolis",
     "State": "Maryland",
     "ZipCode": 21403,
@@ -876,7 +876,7 @@
   {
     "LocationID": "chch",
     "LocationName": "Chickamauga & Chattanooga National Military Park",
-    "Address": "P.O. Box 2128 (Mailing), 3370 LaFayette Road (Shipping)",
+    "Address": "3370 LaFayette Road",
     "City": "Fort Oglethorpe",
     "State": "Georgia",
     "ZipCode": 30742,
@@ -916,7 +916,7 @@
   {
     "LocationID": "CIRO",
     "LocationName": "City of Rocks National Reserve",
-    "Address": "City of Rocks National Reserve, P.O. Box 169",
+    "Address": "City of Rocks National Reserve",
     "City": "Almo",
     "State": "Idaho",
     "ZipCode": 83312,
@@ -968,7 +968,7 @@
   {
     "LocationID": "COWP",
     "LocationName": "Cowpens National Battlefield",
-    "Address": "Cowpens National Battlefield, PO Box 308",
+    "Address": "Cowpens National Battlefield, ",
     "City": "Chesnee",
     "State": "South Carolina",
     "ZipCode": 29323,
@@ -981,7 +981,7 @@
   {
     "LocationID": "CRLA",
     "LocationName": "Crater Lake National Park",
-    "Address": "P.O. Box 7",
+    "Address": "",
     "City": "Crater Lake",
     "State": "Oregon",
     "ZipCode": 97604,
@@ -995,7 +995,7 @@
   {
     "LocationID": "CRMO",
     "LocationName": "Craters of the Moon National Monument & Preserve",
-    "Address": "Craters of the Moon National Monument and Preserve, P.O. Box 29",
+    "Address": "Craters of the Moon National Monument and Preserve",
     "City": "Arco",
     "State": "Idaho",
     "ZipCode": 83213,
@@ -1074,7 +1074,7 @@
   {
     "LocationID": "deso",
     "LocationName": "De Soto National Memorial",
-    "Address": "De Soto National Memorial, P.O. Box 15390",
+    "Address": "De Soto National Memorial, 90",
     "City": "Bradenton",
     "State": "Florida",
     "ZipCode": 34280,
@@ -1087,7 +1087,7 @@
   {
     "LocationID": "deva",
     "LocationName": "Death Valley National Park",
-    "Address": "Death Valley National Park, P.O. Box 579",
+    "Address": "Death Valley National Park",
     "City": "Death Valley",
     "State": "California",
     "ZipCode": 92328,
@@ -1113,7 +1113,7 @@
   {
     "LocationID": "dena",
     "LocationName": "Denali National Park and Preserve",
-    "Address": "Denali National Park & Preserve, P.O. Box 9",
+    "Address": "Denali National Park & Preserve",
     "City": "Denali Park",
     "State": "Alaska",
     "ZipCode": 99755,
@@ -1140,7 +1140,7 @@
   {
     "LocationID": "depo",
     "LocationName": "Devils Postpile National Monument",
-    "Address": "Devils Postpile National Monument, P.O. Box 3999",
+    "Address": "Devils Postpile National Monument, 9",
     "City": "Mammoth Lakes",
     "State": "California",
     "ZipCode": 93546,
@@ -1153,7 +1153,7 @@
   {
     "LocationID": "DETO",
     "LocationName": "Devils Tower National Monument",
-    "Address": "PO Box 10",
+    "Address": "",
     "City": "Devils Tower",
     "State": "Wyoming",
     "ZipCode": 82714,
@@ -1180,7 +1180,7 @@
   {
     "LocationID": "drto",
     "LocationName": "Dry Tortugas National Park",
-    "Address": "P.O. Box 6208",
+    "Address": "8",
     "City": "Key West",
     "State": "Florida",
     "ZipCode": 33041,
@@ -1220,7 +1220,7 @@
   {
     "LocationID": "EISE",
     "LocationName": "Eisenhower National Historic Site",
-    "Address": "Eisenhower NHS, 1195 Baltimore Pike, Suite 100",
+    "Address": "Eisenhower NHS, 1195 Baltimore Pike",
     "City": "Gettysburg",
     "State": "Pennsylvania",
     "ZipCode": 17325,
@@ -1233,7 +1233,7 @@
   {
     "LocationID": "ELTE",
     "LocationName": "El Camino Real de los Tejas National Historic Trail",
-    "Address": "National Trails Intermountain Region, P.O. Box 728",
+    "Address": "National Trails Intermountain Region",
     "City": "Santa Fe",
     "State": "New Mexico",
     "ZipCode": "87504-0728",
@@ -1246,7 +1246,7 @@
   {
     "LocationID": "ELCA",
     "LocationName": "El Camino Real de Tierra Adentro National Historic Trail",
-    "Address": "National Trails Intermountain Region, PO Box 728",
+    "Address": "National Trails Intermountain Region, ",
     "City": "Santa Fe",
     "State": "New Mexico",
     "ZipCode": "87504-0728",
@@ -1311,7 +1311,7 @@
   {
     "LocationID": "ESSE",
     "LocationName": "Essex National Heritage Area",
-    "Address": "221 Essex Street, Suite 41",
+    "Address": "221 Essex Street",
     "City": "Salem",
     "State": "Massachuetts",
     "ZipCode": 1970,
@@ -1324,7 +1324,7 @@
   {
     "LocationID": "euon",
     "LocationName": "Eugene O'Neill National Historic Site",
-    "Address": "P.O. Box 280",
+    "Address": "",
     "City": "Danville",
     "State": "California",
     "ZipCode": 94526,
@@ -1389,7 +1389,7 @@
   {
     "LocationID": "FLNI",
     "LocationName": "Flight 93 National Memorial",
-    "Address": "P.O. Box 911",
+    "Address": "",
     "City": "Shanksville",
     "State": "Pennsylvania",
     "ZipCode": 15560,
@@ -1402,7 +1402,7 @@
   {
     "LocationID": "flfo",
     "LocationName": "Florissant Fossil Beds National Monument",
-    "Address": "PO Box 185",
+    "Address": "",
     "City": "Florissant",
     "State": "Colorado",
     "ZipCode": 80816,
@@ -1428,7 +1428,7 @@
   {
     "LocationID": "FODA",
     "LocationName": "Fort Davis National Historic Site",
-    "Address": "Fort Davis National Historic Site, P.O. Box 1379",
+    "Address": "Fort Davis National Historic Site, 9",
     "City": "Fort Davis",
     "State": "Texas",
     "ZipCode": 79734,
@@ -1441,7 +1441,7 @@
   {
     "LocationID": "FODO",
     "LocationName": "Fort Donelson National Battlefield",
-    "Address": "Fort Donelson National Battlefield, P.O. Box 434",
+    "Address": "Fort Donelson National Battlefield",
     "City": "Dover",
     "State": "Tennessee",
     "ZipCode": 37058,
@@ -1558,7 +1558,7 @@
   {
     "LocationID": "FOSC",
     "LocationName": "Fort Scott National Historic Site",
-    "Address": "Fort Scott NHS, P.O. Box 918",
+    "Address": "Fort Scott NHS",
     "City": "Fort Scott",
     "State": "Kansas",
     "ZipCode": 66701,
@@ -1571,7 +1571,7 @@
   {
     "LocationID": "fosm",
     "LocationName": "Fort Smith National Historic Site",
-    "Address": "Fort Smith National Historic Site, PO Box 1406",
+    "Address": "Fort Smith National Historic Site, 6",
     "City": "Fort Smith",
     "State": "Arkansas",
     "ZipCode": 72902,
@@ -1610,7 +1610,7 @@
   {
     "LocationID": "FOUN",
     "LocationName": "Fort Union National Monument",
-    "Address": "Superintendent, Fort Union National Monument PO Box 127",
+    "Address": "Superintendent, Fort Union National Monument ",
     "City": "Watrous",
     "State": "New Mexico",
     "ZipCode": 87753,
@@ -1701,11 +1701,11 @@
   {
     "LocationID": "gaar",
     "LocationName": "Gates of the Arctic National Park & Preserve",
-    "Address": "Visitor Information, P.O. Box 30",
+    "Address": "Visitor Information",
     "City": "Bettles",
     "State": "Alaska",
     "ZipCode": 99726,
-    "Phone": "P.O. Box 30",
+    "Phone": "",
     "Fax": "(907) 692-5400",
     "Latitude": 67.251868,
     "Longitude": -150.184189,
@@ -1766,7 +1766,7 @@
   {
     "LocationID": "GETT",
     "LocationName": "Gettysburg National Military Park",
-    "Address": "Gettysburg National Military Park, 1195 Baltimore Pike, Suite 100",
+    "Address": "Gettysburg National Military Park, 1195 Baltimore Pike",
     "City": "Gettysburg",
     "State": "Pennsylvania",
     "ZipCode": 17325,
@@ -1794,7 +1794,7 @@
   {
     "LocationID": "glba",
     "LocationName": "Glacier Bay National Park and Preserve",
-    "Address": "Glacier Bay National Park, PO Box 140",
+    "Address": "Glacier Bay National Park, ",
     "City": "Gustavus",
     "State": "Alaska",
     "ZipCode": "99826-0140",
@@ -1808,7 +1808,7 @@
   {
     "LocationID": "GLAC",
     "LocationName": "Glacier National Park",
-    "Address": "Glacier National Park, PO Box 128",
+    "Address": "Glacier National Park, ",
     "City": "West Glacier",
     "State": "Montana",
     "ZipCode": 59936,
@@ -1821,7 +1821,7 @@
   {
     "LocationID": "GLCA",
     "LocationName": "Glen Canyon National Recreation Area",
-    "Address": "Glen Canyon NRA, PO Box 1507",
+    "Address": "Glen Canyon NRA, 7",
     "City": "Page",
     "State": "Arizona",
     "ZipCode": 86040,
@@ -1860,7 +1860,7 @@
   {
     "LocationID": "GOSP",
     "LocationName": "Golden Spike National Historic Site",
-    "Address": "Golden Spike NHS, P.O. Box 897",
+    "Address": "Golden Spike NHS",
     "City": "Brigham City",
     "State": "Utah",
     "ZipCode": 84302,
@@ -1886,7 +1886,7 @@
   {
     "LocationID": "grca",
     "LocationName": "Grand Canyon National Park",
-    "Address": "Grand Canyon National Park, P.O. Box 129",
+    "Address": "Grand Canyon National Park",
     "City": "Grand Canyon",
     "State": "Arizona",
     "ZipCode": 86023,
@@ -1912,7 +1912,7 @@
   {
     "LocationID": "GRPO",
     "LocationName": "Grand Portage National Monument",
-    "Address": "P.O. Box 426, 170 Mile Creek Road",
+    "Address": ", 170 Mile Creek Road",
     "City": "Grand Portage",
     "State": "Minnesota",
     "ZipCode": 55605,
@@ -2043,7 +2043,7 @@
   {
     "LocationID": "HAFO",
     "LocationName": "Hagerman Fossil Beds National Monument",
-    "Address": "Hagerman Fossil Beds National Monument, P.O. Box 570",
+    "Address": "Hagerman Fossil Beds National Monument",
     "City": "Hagerman",
     "State": "Idaho",
     "ZipCode": 83332,
@@ -2056,7 +2056,7 @@
   {
     "LocationID": "hale",
     "LocationName": "Haleakala National Park",
-    "Address": "PO Box 369",
+    "Address": "",
     "City": "Makawao",
     "State": "Hawaii",
     "ZipCode": 96768,
@@ -2108,7 +2108,7 @@
   {
     "LocationID": "HAFE",
     "LocationName": "Harpers Ferry National Historical Park",
-    "Address": "P.O. Box 65",
+    "Address": "",
     "City": "Harpers Ferry",
     "State": "West Virginia",
     "ZipCode": 25425,
@@ -2134,7 +2134,7 @@
   {
     "LocationID": "havo",
     "LocationName": "Hawai'i Volcanoes National Park",
-    "Address": "Hawai`i Volcanoes National Park, P.O. Box 52",
+    "Address": "Hawai`i Volcanoes National Park",
     "City": "Hawai`i National Park",
     "State": "Hawaii",
     "ZipCode": "96718-0052",
@@ -2264,7 +2264,7 @@
   {
     "LocationID": "hutar",
     "LocationName": "Hubbell Trading Post National Historic Site",
-    "Address": "Hubbell Trading Post NHS, P.O. Box 150",
+    "Address": "Hubbell Trading Post NHS",
     "City": "Ganado",
     "State": "Arizona",
     "ZipCode": 86505,
@@ -2277,7 +2277,7 @@
   {
     "LocationID": "iatr",
     "LocationName": "Ice Age National Scenic Trail",
-    "Address": "National Park Service, 700 Rayovac Drive Suite 100",
+    "Address": "National Park Service, 700 Rayovac Drive",
     "City": "Madison",
     "State": "Wisconsin",
     "ZipCode": 53711,
@@ -2472,7 +2472,7 @@
   {
     "LocationID": "juba",
     "LocationName": "Juan Bautista de Anza National Historic Trail",
-    "Address": "1111 Jackson St., Suite 700",
+    "Address": "1111 Jackson St.",
     "City": "Oakland",
     "State": "California",
     "ZipCode": 94607,
@@ -2511,7 +2511,7 @@
   {
     "LocationID": "katm",
     "LocationName": "Katmai National Park & Preserve",
-    "Address": "P.O. Box 7",
+    "Address": "",
     "City": "King Salmon",
     "State": "Alaska",
     "ZipCode": 99613,
@@ -2524,7 +2524,7 @@
   {
     "LocationID": "kefj",
     "LocationName": "Kenai Fjords National Park",
-    "Address": "Kenai Fjords National Park, P.O. Box 1727",
+    "Address": "Kenai Fjords National Park, 7",
     "City": "Seward",
     "State": "Alaska",
     "ZipCode": 99664,
@@ -2589,7 +2589,7 @@
   {
     "LocationID": "klgo",
     "LocationName": "Klondike Gold Rush National Historical Park",
-    "Address": "P.O. Box 517",
+    "Address": "",
     "City": "Skagway",
     "State": "Alaska",
     "ZipCode": 99840,
@@ -2602,7 +2602,7 @@
   {
     "LocationID": "KNRI",
     "LocationName": "Knife River Indian Villages National Historic Site",
-    "Address": "P.O. Box 9, 564 County Road 37",
+    "Address": ", 564 County Road 37",
     "City": "Stanton",
     "State": "North Dakota",
     "ZipCode": 58571,
@@ -2615,7 +2615,7 @@
   {
     "LocationID": "kova",
     "LocationName": "Kobuk Valley National Park",
-    "Address": "PO Box 1029",
+    "Address": "9",
     "City": "Kotzebue",
     "State": "Alaska",
     "ZipCode": 99752,
@@ -2628,7 +2628,7 @@
   {
     "LocationID": "lacl",
     "LocationName": "Lake Clark National Park & Preserve",
-    "Address": "240 West 5th Avenue, Suite 236",
+    "Address": "240 West 5th Avenue",
     "City": "Anchorage",
     "State": "Alaska",
     "ZipCode": 99501,
@@ -2655,7 +2655,7 @@
   {
     "LocationID": "lavo",
     "LocationName": "Lassen Volcanic National Park",
-    "Address": "Lassen Volcanic National Park, P.O. Box 100",
+    "Address": "Lassen Volcanic National Park",
     "City": "Mineral",
     "State": "California",
     "ZipCode": "96063-0100",
@@ -2668,7 +2668,7 @@
   {
     "LocationID": "labe",
     "LocationName": "Lava Beds National Monument",
-    "Address": "P.O. Box 1240",
+    "Address": "0",
     "City": "Tulelake",
     "State": "California",
     "ZipCode": 96134,
@@ -2708,7 +2708,7 @@
   {
     "LocationID": "LIBO",
     "LocationName": "Lincoln Boyhood National Memorial",
-    "Address": "2916 E South Street, PO Box 1816",
+    "Address": "2916 E South Street, 6",
     "City": "Lincoln City",
     "State": "Indiana",
     "ZipCode": 47552,
@@ -2734,7 +2734,7 @@
   {
     "LocationID": "LIBI",
     "LocationName": "Little Bighorn Battlefield National Monument",
-    "Address": "Little Bighorn Battlefield National Monument, PO Box 39",
+    "Address": "Little Bighorn Battlefield National Monument, ",
     "City": "Crow Agency",
     "State": "Montana",
     "ZipCode": 59022,
@@ -2747,7 +2747,7 @@
   {
     "LocationID": "liri",
     "LocationName": "Little River Canyon National Preserve",
-    "Address": "Little River Canyon National Preserve, 4322 Little River Trail NE,   Suite 100",
+    "Address": "Little River Canyon National Preserve, 4322 Little River Trail NE",
     "City": "Fort Payne",
     "State": "Alabama",
     "ZipCode": 35967,
@@ -2773,7 +2773,7 @@
   {
     "LocationID": "LONG",
     "LocationName": "Longfellow National Historic Site",
-    "Address": "Longfellow House - Washington's Headquarters National Historic Site, 105 Brattle Street",
+    "Address": "Washington's Headquarters National Historic Site, 105 Brattle Street",
     "City": "Cambridge",
     "State": "Massachuetts",
     "ZipCode": 2138,
@@ -2812,7 +2812,7 @@
   {
     "LocationID": "LYJO",
     "LocationName": "Lyndon B. Johnson National Historical Park",
-    "Address": "Superintendent, P.O. Box 329",
+    "Address": "Superintendent",
     "City": "Johnson City",
     "State": "Texas",
     "ZipCode": 78636,
@@ -2825,7 +2825,7 @@
   {
     "LocationID": "MAAC",
     "LocationName": "Maine Acadian Culture",
-    "Address": "c/o Acadia National Park, P.O. Box 177",
+    "Address": "c/o Acadia National Park",
     "City": "Bar Harbor",
     "State": "Maine",
     "ZipCode": 4609,
@@ -2838,7 +2838,7 @@
   {
     "LocationID": "MACA",
     "LocationName": "Mammoth Cave National Park",
-    "Address": "Superintendent, 1 Mammoth Cave Parkway   P.O. Box 7",
+    "Address": "Superintendent, 1 Mammoth Cave Parkway   ",
     "City": "Mammoth Cave",
     "State": "Kentucky",
     "ZipCode": 42259,
@@ -2864,7 +2864,7 @@
   {
     "LocationID": "manz",
     "LocationName": "Manzanar National Historic Site",
-    "Address": "Manzanar National Historic Site, P.O. Box 426",
+    "Address": "Manzanar National Historic Site",
     "City": "Independence",
     "State": "California",
     "ZipCode": 93526,
@@ -2916,7 +2916,7 @@
   {
     "LocationID": "meve",
     "LocationName": "Mesa Verde National Park",
-    "Address": "Mesa Verde National Park, P.O. Box 8",
+    "Address": "Mesa Verde National Park",
     "City": "Mesa Verde",
     "State": "Colorado",
     "ZipCode": 81330,
@@ -2929,7 +2929,7 @@
   {
     "LocationID": "MIIN",
     "LocationName": "Minidoka National Historic Site",
-    "Address": "P.O. Box 570",
+    "Address": "",
     "City": "Hagerman",
     "State": "Idaho",
     "ZipCode": 83332,
@@ -2968,7 +2968,7 @@
   {
     "LocationID": "MISS",
     "LocationName": "Mississippi National River and Recreation Area",
-    "Address": "111 East Kellogg Blvd., Suite 105",
+    "Address": "111 East Kellogg Blvd.",
     "City": "Saint Paul",
     "State": "Minnesota",
     "ZipCode": 55101,
@@ -3047,7 +3047,7 @@
   {
     "LocationID": "MOPI",
     "LocationName": "Mormon Pioneer National Historic Trail",
-    "Address": "National Trails Intermountain Region, 324 South State St., Suite 200",
+    "Address": "National Trails Intermountain Region, 324 South State St.",
     "City": "Salt Lake City",
     "State": "Utah",
     "ZipCode": 84111,
@@ -3086,7 +3086,7 @@
   {
     "LocationID": "MORU",
     "LocationName": "Mount Rushmore National Memorial",
-    "Address": "Mount Rushmore National Memorial, 13000 Hwy 244 Bldg 31 Suite 1",
+    "Address": "Mount Rushmore National Memorial, 13000 Hwy 244",
     "City": "Keystone",
     "State": "South Dakota",
     "ZipCode": 57751,
@@ -3230,7 +3230,7 @@
   {
     "LocationID": "NERI",
     "LocationName": "New River Gorge National River",
-    "Address": "P.O. Box 246",
+    "Address": "",
     "City": "Glen Jean",
     "State": "West Virginia",
     "ZipCode": 25846,
@@ -3243,7 +3243,7 @@
   {
     "LocationID": "NEPE",
     "LocationName": "Nez Perce National Historical Park",
-    "Address": "Nez Perce NHP, PO Box 1000",
+    "Address": "Nez Perce NHP, 0",
     "City": "Lapwai",
     "State": "Idaho",
     "ZipCode": 83540,
@@ -3270,7 +3270,7 @@
   {
     "LocationID": "NISI",
     "LocationName": "Ninety Six National Historic Site",
-    "Address": "Ninety Six National Historic Site, PO Box 418",
+    "Address": "Ninety Six National Historic Site, ",
     "City": "Ninety Six",
     "State": "South Carolina",
     "ZipCode": 29666,
@@ -3283,7 +3283,7 @@
   {
     "LocationID": "NIOB",
     "LocationName": "Niobrara National Scenic River",
-    "Address": "Niobrara National Scenic River, P.O. Box 319",
+    "Address": "Niobrara National Scenic River",
     "City": "Valentine",
     "State": "Nebraska",
     "ZipCode": 69201,
@@ -3296,7 +3296,7 @@
   {
     "LocationID": "noat",
     "LocationName": "Noatak National Preserve",
-    "Address": "National Park Service, P.O. Box 1029",
+    "Address": "National Park Service, 9",
     "City": "Kotzebue",
     "State": "Alaska",
     "ZipCode": 99752,
@@ -3322,7 +3322,7 @@
   {
     "LocationID": "NOCO",
     "LocationName": "North Country National Scenic Trail",
-    "Address": "700 Rayovac Dr. Suite 100",
+    "Address": "700 Rayovac Dr.",
     "City": "Madison",
     "State": "Wisconsin",
     "ZipCode": 53711,
@@ -3335,7 +3335,7 @@
   {
     "LocationID": "NORG",
     "LocationName": "Northern Rio Grande National Heritage Area",
-    "Address": "PO BOX 610",
+    "Address": "",
     "City": "Espa&ntilde;ola",
     "State": "New Mexico",
     "ZipCode": 87532,
@@ -3348,7 +3348,7 @@
   {
     "LocationID": "OBED",
     "LocationName": "Obed Wild & Scenic River",
-    "Address": "Obed Wild and Scenic River, P.O. Box 429",
+    "Address": "Obed Wild and Scenic River",
     "City": "Wartburg",
     "State": "Tennessee",
     "ZipCode": 37887,
@@ -3374,7 +3374,7 @@
   {
     "LocationID": "OKCI",
     "LocationName": "Oklahoma City National Memorial",
-    "Address": "PO Box 676",
+    "Address": "",
     "City": "Oklahoma City",
     "State": "Oklahoma",
     "ZipCode": 73101,
@@ -3388,7 +3388,7 @@
   {
     "LocationID": "olsp",
     "LocationName": "Old Spanish National Historic Trail",
-    "Address": "National Trails Intermountain Region, PO Box 728",
+    "Address": "National Trails Intermountain Region, ",
     "City": "Santa Fe",
     "State": "New Mexico",
     "ZipCode": "87504-0728",
@@ -3401,7 +3401,7 @@
   {
     "LocationID": "OREG",
     "LocationName": "Oregon National Historic Trail",
-    "Address": "National Park Service, 324 S. State St., Suite 200",
+    "Address": "National Park Service, 324 S. State St.",
     "City": "Salt Lake City",
     "State": "Utah",
     "ZipCode": 84111,
@@ -3453,7 +3453,7 @@
   {
     "LocationID": "OZAR",
     "LocationName": "Ozark National Scenic Riverways",
-    "Address": "Ozark National Scenic Riverways, P.O. Box 490",
+    "Address": "Ozark National Scenic Riverways",
     "City": "Van Buren",
     "State": "Missouri",
     "ZipCode": 63965,
@@ -3466,7 +3466,7 @@
   {
     "LocationID": "PAIS",
     "LocationName": "Padre Island National Seashore",
-    "Address": "Malaquite Visitor Center, PO Box 181300",
+    "Address": "Malaquite Visitor Center, 300",
     "City": "Corpus Christi",
     "State": "Texas",
     "ZipCode": "78480-1300",
@@ -3479,7 +3479,7 @@
   {
     "LocationID": "PAAL",
     "LocationName": "Palo Alto Battlefield National Historical Park",
-    "Address": "1623 Central Boulevard, Suite 213",
+    "Address": "1623 Central Boulevard",
     "City": "Brownsville",
     "State": "Texas",
     "ZipCode": "78520-8326",
@@ -3518,7 +3518,7 @@
   {
     "LocationID": "PECO",
     "LocationName": "Pecos National Historical Park",
-    "Address": "Superintendent, Pecos National Historical Park PO Box 418",
+    "Address": "Superintendent, Pecos National Historical Park ",
     "City": "Pecos",
     "State": "New Mexico",
     "ZipCode": 87552,
@@ -3544,7 +3544,7 @@
   {
     "LocationID": "pefo",
     "LocationName": "Petrified Forest National Park",
-    "Address": "Superintendent, Petrified Forest National Park, PO Box 2217",
+    "Address": "Superintendent, Petrified Forest National Park, 7",
     "City": "Petrified Forest",
     "State": "Arizona",
     "ZipCode": 86028,
@@ -3570,7 +3570,7 @@
   {
     "LocationID": "PIRO",
     "LocationName": "Pictured Rocks National Lakeshore",
-    "Address": "Pictured Rocks National Lakeshore, P.O. Box 40",
+    "Address": "Pictured Rocks National Lakeshore",
     "City": "Munising",
     "State": "Michigan",
     "ZipCode": "49862-0040",
@@ -3583,7 +3583,7 @@
   {
     "LocationID": "PINE",
     "LocationName": "Pinelands National Reserve",
-    "Address": "New Jersey Pinelands Commission, 15 Springfield Rd (P.O. Box 7)",
+    "Address": "New Jersey Pinelands Commission, 15 Springfield Rd ()",
     "City": "New Lisbon",
     "State": "NJ",
     "ZipCode": 8064,
@@ -3636,7 +3636,7 @@
   {
     "LocationID": "poex",
     "LocationName": "Pony Express National Historic Trail",
-    "Address": "National Park Service, 324 S. State St., Suite 200",
+    "Address": "National Park Service, 324 S. State St.",
     "City": "Salt Lake City",
     "State": "Utah",
     "ZipCode": 84111,
@@ -3675,7 +3675,7 @@
   {
     "LocationID": "POPO",
     "LocationName": "Poverty Point National Monument",
-    "Address": "Poverty Point State Historic Site, P.O. Box 276",
+    "Address": "Poverty Point State Historic Site",
     "City": "Epps",
     "State": "Louisiana",
     "ZipCode": 71237,
@@ -3714,7 +3714,7 @@
   {
     "LocationID": "RABR",
     "LocationName": "Rainbow Bridge National Monument",
-    "Address": "Rainbow Bridge NM, PO Box 1507",
+    "Address": "Rainbow Bridge NM, 7",
     "City": "Page",
     "State": "Arizona",
     "ZipCode": 86040,
@@ -3740,7 +3740,7 @@
   {
     "LocationID": "rigr",
     "LocationName": "Rio Grande Wild & Scenic River",
-    "Address": "Rio Grande Wild & Scenic River c/o Big Bend National Park, PO Box 129",
+    "Address": "Rio Grande Wild & Scenic River c/o Big Bend National Park, ",
     "City": "Big Bend National Park",
     "State": "Texas",
     "ZipCode": 79834,
@@ -3779,7 +3779,7 @@
   {
     "LocationID": "ROCA",
     "LocationName": "Roosevelt Campobello International Park",
-    "Address": "Executive Secretary, P.O. Box 97",
+    "Address": "Executive Secretary",
     "City": "Lubec",
     "State": "Maine",
     "ZipCode": 4652,
@@ -3792,7 +3792,7 @@
   {
     "LocationID": "rori",
     "LocationName": "Rosie the Riveter / WWII Home Front National Historical Park",
-    "Address": "PO Box 336, Station A",
+    "Address": "Station A",
     "City": "Richmond",
     "State": "California",
     "ZipCode": 94804,
@@ -3844,7 +3844,7 @@
   {
     "LocationID": "SACR",
     "LocationName": "Saint Croix Island International Historic Site",
-    "Address": "c/o Acadia National Park, P.O. Box 177",
+    "Address": "c/o Acadia National Park",
     "City": "Bar Harbor",
     "State": "Maine",
     "ZipCode": "04609-0177",
@@ -3909,7 +3909,7 @@
   {
     "LocationID": "SAPU",
     "LocationName": "Salinas Pueblo Missions National Monument",
-    "Address": "P.O. Box 517",
+    "Address": "",
     "City": "Mountainair",
     "State": "New Mexico",
     "ZipCode": 87036,
@@ -3962,7 +3962,7 @@
   {
     "LocationID": "sand",
     "LocationName": "Sand Creek Massacre National Historic Site",
-    "Address": "PO Box 249, 910 Wansted",
+    "Address": "910 Wansted",
     "City": "Eads",
     "State": "Colorado",
     "ZipCode": 81036,
@@ -3975,7 +3975,7 @@
   {
     "LocationID": "safe",
     "LocationName": "Santa Fe National Historic Trail",
-    "Address": "National Trails Intermountain Region, PO Box 728",
+    "Address": "National Trails Intermountain Region, ",
     "City": "Santa Fe",
     "State": "New Mexico",
     "ZipCode": "87504-0728",
@@ -4027,7 +4027,7 @@
   {
     "LocationID": "SCBL",
     "LocationName": "Scotts Bluff National Monument",
-    "Address": "P.O. Box 27",
+    "Address": "",
     "City": "Gering",
     "State": "Nebraska",
     "ZipCode": 69341,
@@ -4040,7 +4040,7 @@
   {
     "LocationID": "semo",
     "LocationName": "Selma To Montgomery National Historic Trail",
-    "Address": "7002 US Highway 80, P.O. Box 595",
+    "Address": "7002 US Highway 80",
     "City": "Hayneville",
     "State": "Alabama",
     "ZipCode": 36040,
@@ -4105,7 +4105,7 @@
   {
     "LocationID": "SPAR",
     "LocationName": "Springfield Armory National Historic Site",
-    "Address": "Springfield Armory NHS, One Armory Square, Suite 2",
+    "Address": "Springfield Armory NHS, One Armory Square",
     "City": "Springfield",
     "State": "Massachusetts",
     "ZipCode": "01105-1299",
@@ -4118,7 +4118,7 @@
   {
     "LocationID": "STSP",
     "LocationName": "Star-Spangled Banner National Historic Trail",
-    "Address": "National Park Service, 410 Severn Avenue, Suite 314",
+    "Address": "National Park Service, 410 Severn Avenue",
     "City": "Annapolis",
     "State": "Maryland",
     "ZipCode": 21403,
@@ -4131,7 +4131,7 @@
   {
     "LocationID": "STLI",
     "LocationName": "Statue of Liberty National Monument",
-    "Address": "National Park Service, Statue of Liberty National Monument, Liberty Island",
+    "Address": "Statue of Liberty National Monument, Liberty Island",
     "City": "New York",
     "State": "New York",
     "ZipCode": "10004-1467",
@@ -4183,7 +4183,7 @@
   {
     "LocationID": "TAPR",
     "LocationName": "Tallgrass Prairie National Preserve",
-    "Address": "Tallgrass Prairie National Preserve, P.O. Box 585",
+    "Address": "Tallgrass Prairie National Preserve",
     "City": "Cottonwood Falls",
     "State": "Kansas",
     "ZipCode": 66845,
@@ -4235,7 +4235,7 @@
   {
     "LocationID": "THCO",
     "LocationName": "Thomas Cole National Historic Site",
-    "Address": "Thomas Cole NHS/Cedar Grove, PO Box 426, 218 Spring St",
+    "Address": "Thomas Cole NHS/Cedar Grove, 218 Spring St",
     "City": "Catskill",
     "State": "New York",
     "ZipCode": 12414,
@@ -4326,7 +4326,7 @@
   {
     "LocationID": "trte",
     "LocationName": "Trail of Tears National Historic Trail",
-    "Address": "National Trails Intermountain Region, P.O. Box 728",
+    "Address": "National Trails Intermountain Region",
     "City": "Santa Fe",
     "State": "New Mexico",
     "ZipCode": "87504-0728",
@@ -4339,7 +4339,7 @@
   {
     "LocationID": "tule",
     "LocationName": "Tule Lake Unit",
-    "Address": "Tule Lake Unit, P.O. Box 1240",
+    "Address": "Tule Lake Unit, 0",
     "City": "Tulelake",
     "State": "California",
     "ZipCode": 96134,
@@ -4404,7 +4404,7 @@
   {
     "LocationID": "tuzi",
     "LocationName": "Tuzigoot National Monument",
-    "Address": "Tuzigoot National Monument, P.O. Box 219",
+    "Address": "Tuzigoot National Monument",
     "City": "Camp Verde",
     "State": "Arizona",
     "ZipCode": 86322,
@@ -4547,7 +4547,7 @@
   {
     "LocationID": "whis",
     "LocationName": "Whiskeytown National Recreational Area",
-    "Address": "P.O. Box 188, 14412 Kennedy Memorial Drive",
+    "Address": ", 14412 Kennedy Memorial Drive",
     "City": "Whiskeytown",
     "State": "California",
     "ZipCode": "96095-0188",
@@ -4560,7 +4560,7 @@
   {
     "LocationID": "WHSA",
     "LocationName": "White Sands National Monument",
-    "Address": "White Sands National Monument, PO Box 1086",
+    "Address": "White Sands National Monument, 6",
     "City": "Holloman AFB",
     "State": "New Mexico",
     "ZipCode": 88330,
@@ -4600,7 +4600,7 @@
   {
     "LocationID": "wrst",
     "LocationName": "Wrangell-St. Elias National Park & Preserve",
-    "Address": "Wrangell-St. Elias National Park, PO Box 439",
+    "Address": "Wrangell-St. Elias National Park, ",
     "City": "Copper Center",
     "State": "Alaska",
     "ZipCode": 99573,
@@ -4639,7 +4639,7 @@
   {
     "LocationID": "YELL",
     "LocationName": "Yellowstone National Park",
-    "Address": "P.O. Box 168",
+    "Address": "",
     "City": "Yellowstone National Park",
     "State": "Wyoming",
     "ZipCode": "82190-0168",
@@ -4653,7 +4653,7 @@
   {
     "LocationID": "yose",
     "LocationName": "Yosemite National Park",
-    "Address": "PO Box 577",
+    "Address": "",
     "City": "Yosemite National Park",
     "State": "California",
     "ZipCode": 95389,
@@ -4667,7 +4667,7 @@
   {
     "LocationID": "yuho",
     "LocationName": "Yucca House National Monument",
-    "Address": "c/o Mesa Verde National Park, P.O. Box 8",
+    "Address": "c/o Mesa Verde National Park",
     "City": "Mesa Verde",
     "State": "Colorado",
     "ZipCode": 81330,
@@ -4680,7 +4680,7 @@
   {
     "LocationID": "yuch",
     "LocationName": "Yukon Charley Rivers National Preserve",
-    "Address": "Eagle Visitor Center, P.O. Box 167",
+    "Address": "Eagle Visitor Center",
     "City": "Eagle",
     "State": "Alaska",
     "ZipCode": 99738,

@@ -1,5 +1,8 @@
 import React, { useState } from "react";
+//import mountainsData from "./assets/data/mountains.json";
 import mountainsData from "./assets/data/mountains.json";
+// import mountainsImages from "../public/images/mountains";
+/*import WashingtonStoryImage from "./assets/images/mountains/Washington-StoryImage_2.jpg";*/
 
 function MountainsInformationPage() {
   const [selectedMountain, setSelectedMountain] = useState("");
@@ -50,6 +53,15 @@ function MountainsInformationPage() {
                 <td>{mountainData.elevation}</td>
                 <td>{mountainData.effort}</td>
                 <td>{mountainData.desc}</td>
+              </tr>
+              <tr>
+                <td className="mountainImage" colSpan="4">
+                  <img
+                    src={`images/mountains/${mountainData.img}`}
+                    width="1000px"
+                    alt={mountainData.name}
+                  />
+                </td>
               </tr>
             </tbody>
           </table>
