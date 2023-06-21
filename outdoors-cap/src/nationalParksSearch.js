@@ -34,7 +34,7 @@ function NationalParksSearch() {
 
   return (
     <div>
-      <h3>National Parks Search</h3>
+      <h1>National Parks Search</h1>
       <div>
         <label htmlFor="location">Search by Location:</label>
         <select
@@ -65,6 +65,7 @@ function NationalParksSearch() {
           ))}
         </select>
       </div>
+      <br></br>
       <button onClick={handleSearch}>Search</button>
       <div className="mountain-table">
         {searchResults.length === 0 ? (

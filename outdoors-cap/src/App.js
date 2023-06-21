@@ -24,7 +24,9 @@ function App() {
   return (
     <div className="App">
       <div className="backgroundImage">
-        <h1>National Parks Search</h1>
+        <div className="titlePage">
+          <h1>National Parks Search</h1>
+        </div>
 
         <button onClick={handleNationalParksButtonClick}>
           National Parks Search

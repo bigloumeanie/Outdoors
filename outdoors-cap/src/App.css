@@ -51,6 +51,20 @@ h2, h3, h4 {
   font-family: Arial, Helvetica, sans-serif;
   /* font-family: 'National Park', sans-serif; */
 }
+.titlePage {
+  color: black;
+  font-size: xx-large;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: 'National Park', sans-serif;
+}
+h1{
+    font-family: 'National Park', sans-serif;
+}
+button {
+  color: black;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .mountain-table {
   display: flex;
@@ -63,7 +77,7 @@ table {
   max-width: 800px; /* Adjust the maximum width as needed */
   border-collapse: collapse;
   white-space: nowrap;
-  background-color: rgba(107,142,35,.5);
+  background-color: rgba(107,142,35,.7);
 }
 
 th,
@@ -71,6 +85,7 @@ td {
   padding: 8px;
   text-align: center;
   border: 2px solid #000;
+  font-weight: bold;
 }
 
 th {
@@ -83,4 +98,11 @@ th {
 }
 tr {
   font-size: 1.5vh;
+}
+label {
+  font-size: 26px;
+  font-weight: bold;
+}
+select {
+  font-size: 24px;
 }
