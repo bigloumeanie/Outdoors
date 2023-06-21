@@ -1,15 +1,18 @@
- [
-    "National Park",    
-    "National Monument",     
-    "Recreation Area",  
-    "Scenic Trail",    
-    "Battlefield",
-    "Historic", 
-    "Memorial",    
-    "Preserve",
-    "Island",
-    "River",    
-    "Seashore",
-    "Trail",        
-    "Parkway"
- ]
+{
+   "parkTypes":[
+     "National Park",
+     "National Historic Site",
+     "National Monument",
+     "National Recreation Area",
+     "National Seashore",
+     "National Battlefield",
+     "National Memorial",
+     "National Monument",     
+     "National Scenic Trail",    
+     "National Preserve",
+     "National Island",
+     "National River",    
+     "National Trail",        
+     "National Parkway"
+   ]
+ }
