@@ -6,8 +6,10 @@ import NationalParksSearch from "./nationalParksSearch";
 import MountainsInformationPage from "./mountainsInformationPage";
 
 function App() {
-  const [showNationalParksSearch, setShowNationalParksSearch] = React.useState(false);
-  const [showMountainsInformationPage, setShowMountainsInformationPage] = React.useState(false);
+  const [showNationalParksSearch, setShowNationalParksSearch] =
+    React.useState(false);
+  const [showMountainsInformationPage, setShowMountainsInformationPage] =
+    React.useState(false);
 
   const handleNationalParksButtonClick = () => {
     setShowNationalParksSearch(true);

@@ -37,7 +37,11 @@ function NationalParksSearch() {
       <h3>National Parks Search</h3>
       <div>
         <label htmlFor="location">Search by Location:</label>
-        <select id="location" value={selectedLocation} onChange={handleLocationChange}>
+        <select
+          id="location"
+          value={selectedLocation}
+          onChange={handleLocationChange}
+        >
           <option value="">All Locations</option>
           {locationsData.locations.map((location, index) => (
             <option key={index} value={location}>
@@ -48,7 +52,11 @@ function NationalParksSearch() {
       </div>
       <div>
         <label htmlFor="parkType">Search by Park Type:</label>
-        <select id="parkType" value={selectedParkType} onChange={handleParkTypeChange}>
+        <select
+          id="parkType"
+          value={selectedParkType}
+          onChange={handleParkTypeChange}
+        >
           <option value="">All Park Types</option>
           {parkTypesData.parkTypes.map((parkType, index) => (
             <option key={index} value={parkType}>
@@ -58,28 +66,46 @@ function NationalParksSearch() {
         </select>
       </div>
       <button onClick={handleSearch}>Search</button>
-      <div>
-        <h4>Search Results:</h4>
+      <div className="mountain-table">
         {searchResults.length === 0 ? (
           <p>No results found.</p>
         ) : (
-          searchResults.map((park) => (
-            <div key={park.LocationID}>
-              <h4>{park.LocationName}</h4>
-              <p>Address: {park.Address}</p>
-              <p>City: {park.City}</p>
-              <p>State: {park.State}</p>
-              <p>Zip Code: {park.ZipCode}</p>
-              <p>Phone: {park.Phone}</p>
-              <p>Fax: {park.Fax}</p>
-              <p>
-                Visit Website:{" "}
-                <a href={park.Visit} target="_blank" rel="noopener noreferrer">
-                  {park.Visit}
-                </a>
-              </p>
-            </div>
-          ))
+          <table>
+            <thead>
+              <tr>
+                <th>Location Name</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>State</th>
+                <th>Zip Code</th>
+                <th>Phone</th>
+                <th>Fax</th>
+                <th>Visit Website</th>
+              </tr>
+            </thead>
+            <tbody>
+              {searchResults.map((park) => (
+                <tr key={park.LocationID}>
+                  <td>{park.LocationName}</td>
+                  <td>{park.Address}</td>
+                  <td>{park.City}</td>
+                  <td>{park.State}</td>
+                  <td>{park.ZipCode}</td>
+                  <td>{park.Phone}</td>
+                  <td>{park.Fax}</td>
+                  <td>
+                    <a
+                      href={park.Visit}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {park.Visit}
+                    </a>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         )}
       </div>
     </div>
