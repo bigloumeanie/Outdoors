@@ -1,6 +1,9 @@
 {
-  "main.js": "static/js/main.4481ba82.js",
-  "main.js.map": "static/js/main.4481ba82.js.map",
+  "main.css": "static/css/main.7664d3af.css",
+  "main.css.map": "static/css/main.7664d3af.css.map",
+  "main.js": "static/js/main.41247609.js",
+  "main.js.map": "static/js/main.41247609.js.map",
   "static/js/0.5441f16d.chunk.js": "static/js/0.5441f16d.chunk.js",
-  "static/js/0.5441f16d.chunk.js.map": "static/js/0.5441f16d.chunk.js.map"
+  "static/js/0.5441f16d.chunk.js.map": "static/js/0.5441f16d.chunk.js.map",
+  "static\\media\\crop.jpg": "static/media/crop.5b5ef734.jpg"
 }

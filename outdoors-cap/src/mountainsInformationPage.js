@@ -4,7 +4,7 @@ import mountainsData from "./assets/data/mountains.json";
 // Function that can fetch the sunset/sunrise times
 async function getSunsetForMountain(lat, lng) {
   let response = await fetch(
-    `http://api.sunrise-sunset.org/json?lat=${lat}&lng=${lng}&date=today`
+    `https://api.sunrise-sunset.org/json?lat=${lat}&lng=${lng}&date=today`
   );
   let data = await response.json();
   return data;
