@@ -34,9 +34,9 @@ function NationalParksSearch() {
 
   return (
     <div>
-      <h1>National Parks Search</h1>
+      <h1 className="NationalParksSearch">National Parks Search</h1>
       <div>
-        <label htmlFor="location">Search by Location:</label>
+        <label htmlFor="location" className='ParkSearchLocation'>Search by Location:</label>
         <select
           id="location"
           value={selectedLocation}
@@ -51,7 +51,7 @@ function NationalParksSearch() {
         </select>
       </div>
       <div>
-        <label htmlFor="parkType">Search by Park Type:</label>
+        <label htmlFor="parkType" className="ParkSearchType">Search by Park Type:</label>
         <select
           id="parkType"
           value={selectedParkType}

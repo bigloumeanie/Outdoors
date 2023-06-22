@@ -25,13 +25,13 @@ function App() {
     <div className="App">
       <div className="backgroundImage">
         <div className="titlePage">
-          <h1>National Parks Search</h1>
+          <h1>America: The Beautiful</h1>
         </div>
 
-        <button onClick={handleNationalParksButtonClick}>
+        <button onClick={handleNationalParksButtonClick} className="ParkSearchButton">
           National Parks Search
         </button>
-        <button onClick={handleMountainsInformationButtonClick}>
+        <button onClick={handleMountainsInformationButtonClick} className="MountainSearchButton">
           Mountains Information Page
         </button>
 

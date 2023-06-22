@@ -20,9 +20,9 @@ function MountainsInformationPage() {
 
   return (
     <div>
-      <h1>Mountains Information Page</h1>
+      <h1 className="MountainInfoPage">Mountains Information Page</h1>
       <div>
-        <label htmlFor="mountain">Select a Mountain:</label>
+        <label id="selectamountain" htmlFor="mountain">Select a Mountain:</label>
         <select
           id="mountain"
           value={selectedMountain}
