@@ -4,6 +4,7 @@
   /* font-family: 'National Park', sans-serif; */
 }
 
+<<<<<<< HEAD
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -40,12 +41,15 @@
   }
 }
 
+=======
+>>>>>>> f467b77eee384d080583d7685495886cd68fcd65
 body {
   background-image: url("./assets/images/mountains/crop.jpg"); 
   background-size:100%;
   /* background-position: center; */
   background-size: auto;
 }
+
 h2, h3, h4 {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
@@ -56,6 +60,7 @@ h2, h3, h4 {
   font-size: xx-large;
   /* font-family: Arial, Helvetica, sans-serif; */
   font-family: 'National Park', sans-serif;
+  justify-content: center;
 }
 h1{
     font-family: 'National Park', sans-serif;
@@ -108,4 +113,59 @@ label {
 }
 select {
   font-size: 24px;
+<<<<<<< HEAD
 }
+=======
+}
+
+.NationalParksSearch{
+  display:inline;
+  text-align: center;
+  font-variant: normal;
+  color: #212427;
+  padding-left: 1;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-radius: .25rem;
+  background-color: rgba(255,255,255,.5);
+}
+
+.MountainInfoPage{
+  display: inline;
+  font-variant: normal;
+  color:#212427;
+  padding-left: 1;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-radius: .25rem;
+  margin: 0;
+  background-color: rgba(255,255,255,.5);
+}
+
+#selectamountain {
+  font-variant: normal;
+  color:#212427;
+  background-color: #818385a2;  
+}
+
+.ParkSearchLocation, .ParkSearchType {
+  font-variant: normal;
+  color:#212427;
+  background-color: #818385a2;
+}
+
+.ParkSearchButton, .MountainSearchButton {
+  margin: .5rem;
+  border-radius: .25rem;
+  padding: .25rem 0.5rem;
+  font-size: 1.0rem;
+}
+
+#mountain, #location, #parkType {
+  margin-left: 1rem;
+  border-radius: .25rem;
+  font-size: 1.4rem;
+  justify-content: center;
+  align-items: center;
+}
+>>>>>>> f467b77eee384d080583d7685495886cd68fcd65
