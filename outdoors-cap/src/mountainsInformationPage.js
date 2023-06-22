@@ -1,12 +1,29 @@
-import React, { useState } from "react";
-//import mountainsData from "./assets/data/mountains.json";
+import React, { useState, useEffect } from "react";
 import mountainsData from "./assets/data/mountains.json";
-// import mountainsImages from "../public/images/mountains";
-/*import WashingtonStoryImage from "./assets/images/mountains/Washington-StoryImage_2.jpg";*/
+
+// Function that can fetch the sunset/sunrise times
+async function getSunsetForMountain(lat, lng) {
+  let response = await fetch(
+    `http://api.sunrise-sunset.org/json?lat=${lat}&lng=${lng}&date=today`
+  );
+  let data = await response.json();
+  return data;
+}
 
 function MountainsInformationPage() {
   const [selectedMountain, setSelectedMountain] = useState("");
   const [mountainData, setMountainData] = useState(null);
+  const [sunriseSunsetData, setSunriseSunsetData] = useState(null);
+
+  useEffect(() => {
+    if (mountainData) {
+      getSunsetForMountain(mountainData.lat, mountainData.lng).then(
+        (sunsetData) => {
+          setSunriseSunsetData(sunsetData.results);
+        }
+      );
+    }
+  }, [mountainData]);
 
   const handleMountainChange = (event) => {
     const selectedMountainName = event.target.value;
@@ -22,7 +39,9 @@ function MountainsInformationPage() {
     <div>
       <h1 className="MountainInfoPage">Mountains Information Page</h1>
       <div>
-        <label id="selectamountain" htmlFor="mountain">Select a Mountain:</label>
+        <label id="selectamountain" htmlFor="mountain">
+          Select a Mountain:
+        </label>
         <select
           id="mountain"
           value={selectedMountain}
@@ -45,17 +64,27 @@ function MountainsInformationPage() {
                 <th>Elevation</th>
                 <th>Effort</th>
                 <th>Description</th>
+                <th>Sunrise</th>
+                <th>Sunset</th>
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr id="wordwrapthis">
                 <td>{mountainData.name}</td>
                 <td>{mountainData.elevation}</td>
                 <td>{mountainData.effort}</td>
-                <td>{mountainData.desc}</td>
+                <td className="overflow-wrap">{mountainData.desc}</td>
+                <td>
+                  {sunriseSunsetData && (
+                    <span>{sunriseSunsetData.sunrise}</span>
+                  )}
+                </td>
+                <td>
+                  {sunriseSunsetData && <span>{sunriseSunsetData.sunset}</span>}
+                </td>
               </tr>
               <tr>
-                <td className="mountainImage" colSpan="4">
+                <td className="mountainImage" colSpan="6">
                   <img
                     src={`images/mountains/${mountainData.img}`}
                     width="1000px"

@@ -36,7 +36,9 @@ function NationalParksSearch() {
     <div>
       <h1 className="NationalParksSearch">National Parks Search</h1>
       <div>
-        <label htmlFor="location" className='ParkSearchLocation'>Search by Location:</label>
+        <label htmlFor="location" className="ParkSearchLocation">
+          Search by Location:
+        </label>
         <select
           id="location"
           value={selectedLocation}
@@ -51,7 +53,9 @@ function NationalParksSearch() {
         </select>
       </div>
       <div>
-        <label htmlFor="parkType" className="ParkSearchType">Search by Park Type:</label>
+        <label htmlFor="parkType" className="ParkSearchType">
+          Search by Park Type:
+        </label>
         <select
           id="parkType"
           value={selectedParkType}
@@ -80,20 +84,18 @@ function NationalParksSearch() {
                 <th>State</th>
                 <th>Zip Code</th>
                 <th>Phone</th>
-                <th>Fax</th>
                 <th>Visit Website</th>
               </tr>
             </thead>
             <tbody>
               {searchResults.map((park) => (
                 <tr key={park.LocationID}>
-                  <td>{park.LocationName}</td>
-                  <td>{park.Address}</td>
+                  <td className="overflow-wrap">{park.LocationName}</td>
+                  <td className="overflow-wrap">{park.Address}</td>
                   <td>{park.City}</td>
                   <td>{park.State}</td>
                   <td>{park.ZipCode}</td>
                   <td>{park.Phone}</td>
-                  <td>{park.Fax}</td>
                   <td>
                     <a
                       href={park.Visit}
