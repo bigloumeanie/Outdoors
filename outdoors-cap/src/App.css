@@ -4,37 +4,64 @@
   /* font-family: 'National Park', sans-serif; */
 }
 
-body {
-  background-image: url("./assets/images/mountains/crop.jpg"); 
-  background-size:100%;
-  /* background-position: center; */
-  background-size: auto;
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
-h2, h3, h4 {
+/* .App-link {
+  color: #61dafb;
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: 'National Park', sans-serif; 
+} */
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  background-image: url("./assets/images/mountains/crop.jpg");
+  background-size: 100%;
+  /* background-position: center; */
+  background-size: auto;
+  background-attachment: fixed;
+}
+h2,
+h3,
+h4 {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   /* font-family: 'National Park', sans-serif; */
 }
 .titlePage {
-  color: black;
+  color: #212427;
   font-size: xx-large;
   /* font-family: Arial, Helvetica, sans-serif; */
-  font-family: 'National Park', sans-serif;
-  justify-content: center;
+  font-family: "National Park", sans-serif;
 }
-h1{
-    font-family: 'National Park', sans-serif;
+h1 {
+  font-family: "National Park", sans-serif;
+  font-variant: small-caps;
 }
+
 button {
-  color: black;
+  color: #212427;
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .mountain-table {
   display: flex;
-  /* table-layout: auto; */
   justify-content: center;
 }
 
@@ -44,11 +71,9 @@ table {
   max-width: 800px; /* Adjust the maximum width as needed */
   border-collapse: collapse;
   white-space: nowrap;
-  background-color: rgba(107,142,35,.7);
+  background-color: rgba(107, 142, 35, 0.7);
 }
-.overflow-wrap {
-  white-space: normal;
-}
+
 th,
 td {
   padding: 8px;
@@ -62,8 +87,8 @@ th {
 }
 
 .mountainImage {
-    justify-content: center;
-    align-content: center;
+  justify-content: center;
+  align-content: center;
 }
 tr {
   font-size: 1.5vh;
@@ -76,52 +101,58 @@ select {
   font-size: 24px;
 }
 
-.NationalParksSearch{
-  display:inline;
+h1.NationalParksSearch {
+  display: inline;
   text-align: center;
   font-variant: normal;
   color: #212427;
   padding-left: 1;
   padding-top: 0;
   padding-bottom: 0;
-  border-radius: .25rem;
-  background-color: rgba(255,255,255,.5);
+  border-radius: 0.25rem;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
-.MountainInfoPage{
+.MountainInfoPage {
   display: inline;
   font-variant: normal;
-  color:#212427;
+  color: #212427;
   padding-left: 1;
   padding-top: 0;
   padding-bottom: 0;
-  border-radius: .25rem;
+  border-radius: 0.25rem;
   margin: 0;
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 #selectamountain {
   font-variant: normal;
-  color:#212427;
-  background-color: #818385a2;  
+  color: #212427;
+  background-color: #818385a2;
 }
-
-.ParkSearchLocation, .ParkSearchType {
+.overflow-wrap {
+  white-space: normal;
+}
+.ParkSearchLocation,
+.ParkSearchType {
   font-variant: normal;
-  color:#212427;
+  color: #212427;
   background-color: #818385a2;
 }
 
-.ParkSearchButton, .MountainSearchButton {
-  margin: .5rem;
-  border-radius: .25rem;
-  padding: .25rem 0.5rem;
-  font-size: 1.0rem;
+.ParkSearchButton,
+.MountainSearchButton {
+  margin: 0.5rem;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 1rem;
 }
 
-#mountain, #location, #parkType {
+#mountain,
+#location,
+#parkType {
   margin-left: 1rem;
-  border-radius: .25rem;
+  border-radius: 0.25rem;
   font-size: 1.4rem;
   justify-content: center;
   align-items: center;
