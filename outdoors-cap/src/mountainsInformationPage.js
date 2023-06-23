@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import mountainsData from "./assets/data/mountains.json";
+import "./mountains.css";
 
 async function getSunsetForMountain(lat, lng) {
   let response = await fetch(

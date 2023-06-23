@@ -1,0 +1,42 @@
+h1.NationalParksSearch {
+    display: inline;
+    text-align: center;
+    font-variant: normal;
+    color: #212427;
+    padding-left: 1;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-radius: 0.25rem;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#parkType {
+    margin-left: 1rem;
+    border-radius: 0.25rem;
+    font-size: 1.4rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+.ParkSearchLocation,
+.ParkSearchType {
+  font-variant: normal;
+  color: #212427;
+  background-color: #818385a2;
+}
+
+.ParkSearchButton {
+  margin: 0.5rem;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 1rem;
+}
+
+#NoResults {
+    font-size: 40px;
+    font-style: italic;
+    color:#212427;
+    font-weight: bolder;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}

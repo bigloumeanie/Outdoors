@@ -10,7 +10,6 @@ window.onload = function(){
 
 }
 
-//function that can "fetch" the sunset/sunrise times
 let loadJsonData = async (path) => {
     let response = await fetch(path)
     let data = await response.json()

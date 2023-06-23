@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import nationalParksData from "./assets/data/nationalparks.json";
 import locationsData from "./assets/data/locations.json";
 import parkTypesData from "./assets/data/parktypes.json";
+import "./nationalparks.css";
+
 
 function NationalParksSearch() {
   const [selectedLocation, setSelectedLocation] = useState("");
@@ -73,7 +75,7 @@ function NationalParksSearch() {
       <button onClick={handleSearch}>Search</button>
       <div className="mountain-table">
         {isSearchClicked && searchResults.length === 0 && (
-          <p>No results found.</p>
+          <p id='NoResults'>No results found</p>
         )}
         {searchResults.length > 0 && (
           <table>

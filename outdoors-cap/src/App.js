@@ -1,5 +1,7 @@
 import React from "react";
 import "./App.css";
+import "./mountains.css";
+import "./nationalparks.css";
 import NationalParksSearch from "./nationalParksSearch";
 import MountainsInformationPage from "./mountainsInformationPage";
 
