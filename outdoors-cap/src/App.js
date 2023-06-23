@@ -1,5 +1,3 @@
-//  App.js
-
 import React from "react";
 import "./App.css";
 import NationalParksSearch from "./nationalParksSearch";
@@ -23,15 +21,21 @@ function App() {
 
   return (
     <div className="App">
-      <div className="backgroundImage">
+      <div>
         <div className="titlePage">
           <h1>America: The Beautiful</h1>
         </div>
 
-        <button onClick={handleNationalParksButtonClick} className="ParkSearchButton">
+        <button
+          onClick={handleNationalParksButtonClick}
+          className="ParkSearchButton"
+        >
           National Parks Search
         </button>
-        <button onClick={handleMountainsInformationButtonClick} className="MountainSearchButton">
+        <button
+          onClick={handleMountainsInformationButtonClick}
+          className="MountainSearchButton"
+        >
           Mountains Information Page
         </button>
 

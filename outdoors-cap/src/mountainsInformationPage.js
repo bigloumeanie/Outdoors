@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import mountainsData from "./assets/data/mountains.json";
 
-// Function that can fetch the sunset/sunrise times
 async function getSunsetForMountain(lat, lng) {
   let response = await fetch(
     `https://api.sunrise-sunset.org/json?lat=${lat}&lng=${lng}&date=today`

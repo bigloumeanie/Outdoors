@@ -1,5 +1,3 @@
-// nationalParksSearch.js
-
 import React, { useState } from "react";
 import nationalParksData from "./assets/data/nationalparks.json";
 import locationsData from "./assets/data/locations.json";
@@ -9,6 +7,7 @@ function NationalParksSearch() {
   const [selectedLocation, setSelectedLocation] = useState("");
   const [selectedParkType, setSelectedParkType] = useState("");
   const [searchResults, setSearchResults] = useState([]);
+  const [isSearchClicked, setIsSearchClicked] = useState(false);
 
   const handleLocationChange = (event) => {
     setSelectedLocation(event.target.value);
@@ -30,6 +29,7 @@ function NationalParksSearch() {
     });
 
     setSearchResults(filteredResults);
+    setIsSearchClicked(true);
   };
 
   return (
@@ -72,9 +72,10 @@ function NationalParksSearch() {
       <br></br>
       <button onClick={handleSearch}>Search</button>
       <div className="mountain-table">
-        {searchResults.length === 0 ? (
+        {isSearchClicked && searchResults.length === 0 && (
           <p>No results found.</p>
-        ) : (
+        )}
+        {searchResults.length > 0 && (
           <table>
             <thead>
               <tr>

@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  /* font-family: 'National Park', sans-serif; */
 }
 
 .App-header {
@@ -14,41 +13,26 @@
   color: white;
 }
 
-/* .App-link {
-  color: #61dafb;
-  font-family: Arial, Helvetica, sans-serif;
-  /* font-family: 'National Park', sans-serif; 
-} */
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 body {
   background-image: url("./assets/images/mountains/crop.jpg");
   background-size: 100%;
-  /* background-position: center; */
   background-size: auto;
   background-attachment: fixed;
 }
+
 h2,
 h3,
 h4 {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
-  /* font-family: 'National Park', sans-serif; */
 }
+
 .titlePage {
   color: #212427;
   font-size: xx-large;
-  /* font-family: Arial, Helvetica, sans-serif; */
   font-family: "National Park", sans-serif;
 }
+
 h1 {
   font-family: "National Park", sans-serif;
   font-variant: small-caps;
@@ -68,7 +52,7 @@ button {
 table {
   margin: 20px;
   width: 100%;
-  max-width: 800px; /* Adjust the maximum width as needed */
+  max-width: 800px;
   border-collapse: collapse;
   white-space: nowrap;
   background-color: rgba(107, 142, 35, 0.7);
@@ -90,13 +74,16 @@ th {
   justify-content: center;
   align-content: center;
 }
+
 tr {
   font-size: 1.5vh;
 }
+
 label {
   font-size: 26px;
   font-weight: bold;
 }
+
 select {
   font-size: 24px;
 }
@@ -130,9 +117,11 @@ h1.NationalParksSearch {
   color: #212427;
   background-color: #818385a2;
 }
+
 .overflow-wrap {
   white-space: normal;
 }
+
 .ParkSearchLocation,
 .ParkSearchType {
   font-variant: normal;
